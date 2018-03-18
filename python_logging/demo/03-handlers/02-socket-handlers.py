@@ -1,10 +1,5 @@
 import logging, logging.handlers
 
-
-
-
-
-
 rootLogger = logging.getLogger('')
 rootLogger.setLevel(logging.DEBUG)
 socketHandler = logging.handlers.SocketHandler('localhost',

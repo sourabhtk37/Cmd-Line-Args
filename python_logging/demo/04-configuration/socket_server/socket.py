@@ -2,9 +2,6 @@
 import socket, sys, struct
 
 
-
-
-
 with open(sys.argv[1], 'rb') as f:
     data_to_send = f.read()
 

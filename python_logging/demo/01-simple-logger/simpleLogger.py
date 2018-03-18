@@ -1,10 +1,3 @@
-
-
-
-
-
-
-
 import logging
 
 logger = logging.basicConfig(filename='01-simple-logger.log',

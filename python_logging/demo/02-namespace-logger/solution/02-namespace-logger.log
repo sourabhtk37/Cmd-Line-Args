@@ -1,0 +1,15 @@
+
+
+
+
+
+
+INFO:namespaceLogger:A person named Boris the Animal is created
+INFO:namespaceLogger:greeting the prisoner!
+INFO:namespaceLogger.greetPerson:greeting the prisoner!
+INFO:__main__:A person named Boris the Animal is created
+INFO:__main__:greeting the prisoner!
+INFO:namespaceLogger.greetPerson:greeting the prisoner!
+INFO:__main__:A person named Boris the Animal is created
+INFO:__main__:greeting the prisoner!
+INFO:greetPerson_:greeting the prisoner!
